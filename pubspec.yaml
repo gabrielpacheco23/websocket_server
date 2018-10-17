@@ -1,0 +1,14 @@
+name: chat_websocket
+description: Chat WebSocket Server
+version: 0.0.1
+author: gabriel pacheco <gabrielpacheco23@live.com>
+
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+dependencies:
+  aqueduct: ^3.0.0
+
+dev_dependencies:
+  test: ^1.0.0
+  aqueduct_test: ^1.0.0
